@@ -1,0 +1,46 @@
+/*
+    Font Weights:
+        100 - Thin
+        200 - Extra Light (Ultra Light)
+        300 - Light
+        400 - Normal
+        500 - Medium
+        600 - Semi Bold (Demi Bold)
+        700 - Bold
+        800 - Extra Bold (Ultra Bold)
+        900 - Black (Heavy)
+*/
+
+    @font-face {
+       font-family: 'Calibre';
+       src: url('CalibreWeb-Regular.eot');
+       src: url('CalibreWeb-Regular.eot?#iefix') format('embedded-opentype'),
+             url('CalibreWeb-Regular.woff') format('woff');
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+       font-family: 'Calibre';
+       src: url('CalibreWeb-RegularItalic.eot');
+       src: url('CalibreWeb-RegularItalic.eot?#iefix') format('embedded-opentype'),
+             url('CalibreWeb-RegularItalic.woff') format('woff');
+        font-style: italic;
+        font-weight: 400;
+    }
+
+    @font-face {
+       font-family: 'Calibre';
+       src: url('CalibreWeb-Medium.eot');
+       src: url('CalibreWeb-Medium.eot?#iefix') format('embedded-opentype'),
+             url('CalibreWeb-Medium.woff') format('woff');
+        font-style: normal;
+        font-weight: 500;
+    }
+    @font-face {
+       font-family: 'Calibre';
+       src: url('CalibreWeb-MediumItalic.eot');
+       src: url('CalibreWeb-MediumItalic.eot?#iefix') format('embedded-opentype'),
+             url('CalibreWeb-MediumItalic.woff') format('woff');
+        font-style: italic;
+        font-weight: 500;
+    }
